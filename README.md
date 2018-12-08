@@ -1,3 +1,3 @@
 # Print your DNA double helix !
 
-`./dna.sh input.fasta`
+To run the code `./dna.sh input.fasta`
